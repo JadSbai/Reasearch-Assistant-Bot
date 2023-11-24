@@ -1,12 +1,10 @@
-
-
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import AIMessage, HumanMessage
 import gradio as gr
 import requests
 
 
-llm = ChatOpenAI(model='gpt-4-1106-preview', openai_api_key="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")
+llm = ChatOpenAI(model='gpt-4-1106-preview', openai_api_key="")
 
 def search_documents(text, number_documents=20):
     url = "https://eed8-2a00-23c6-54e7-2c01-ddd6-167e-8696-b759.ngrok-free.app/search"

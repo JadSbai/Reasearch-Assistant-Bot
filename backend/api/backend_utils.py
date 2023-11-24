@@ -4,7 +4,7 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 
-from backend.data_processing import insert_and_process_pdf
+from backend.mongo.data_processing import insert_and_process_pdf
 
 MILVUS_URL = "https://eed8-2a00-23c6-54e7-2c01-ddd6-167e-8696-b759.ngrok-free.app/insert"
 ALLOWED_EXTENSIONS = {'pdf'}
