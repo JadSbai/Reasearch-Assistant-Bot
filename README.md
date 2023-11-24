@@ -19,8 +19,6 @@ Technical Functionalities:
 
 - **Automated and Integrated Workflow**: The entire workflow, from data extraction to sophisticated query processing, is automated and facilitated through API calls between two distinct services.
 
-The Research Bot Assistant represents a leap in academic research tools, making it significantly easier to access, understand, and analyze complex academic papers.
-
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/V3w9wzue95o/0.jpg)](https://www.youtube.com/watch?v=V3w9wzue95o)
