@@ -1,4 +1,4 @@
-# Research Bot Assistant
+# Research Assistant Bot
 
 ## Project Overview
 The Research Bot Assistant is a sophisticated tool designed for researchers, academics, and students, transforming their interaction with academic literature to deliver a seamless and intuitive research experience.
